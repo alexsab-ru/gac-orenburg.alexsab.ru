@@ -10,7 +10,7 @@ import icon from "astro-icon";
 export default defineConfig({
 	integrations: [
 		tailwind({
-			configFile: './tailwind.config.js'
+			configFile: './tailwind.gac.js'
 		}),
 		sitemap(),
 		robots(),
@@ -19,5 +19,5 @@ export default defineConfig({
 		icon(),
 	],
 	// site: 'https://alexsab-ru.github.io',
-	// base: 'astro-website'
+	// base: 'gac-orenburg.ru'
 });
