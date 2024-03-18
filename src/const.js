@@ -1,15 +1,24 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
-
-export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Адрес для JSON
-export const SITE_URL = 'gac-orenburg.ru'; // URL сайта по умолчанию
-export const SITE_NAME = 'GAC НИКА АВТО'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО «Интертрейдинг-Оренбург»'; // Юр лицо
-export const LEGAL_INN = '5609043070'; // ИНН
-export const LEGAL_CITY = 'г. Оренбург'; // Город
-export const LEGAL_CITY_WHERE = 'Оренбурге'; // где? в Городе
-export const SITE_DESCR = 'Официальный дилерский центр GAC в Оренбурге'; // Описание сайта по умолчанию
-export const TELEGRAM = ''; // Имя пользователя в Телегам
-export const PHONE = '+7 (3532) 91-78-88'; // Телефон по умолчанию
+// Адрес для JSON
+export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/';
+// URL сайта по умолчанию
+export const SITE_URL = 'gac-orenburg.ru';
+// Название сайта по умолчанию
+export const SITE_NAME = 'GAC НИКА АВТО';
+// Юр лицо
+export const LEGAL_ENTITY = 'ООО «Интертрейдинг-Оренбург»';
+// ИНН
+export const LEGAL_INN = '5609043070';
+// Город
+export const LEGAL_CITY = 'г. Оренбург';
+// где? в Городе
+export const LEGAL_CITY_WHERE = 'Оренбурге';
+// Описание сайта по умолчанию
+export const SITE_DESCR = 'Официальный дилерский центр GAC в Оренбурге';
+// Имя пользователя в Телегам
+export const TELEGRAM = '';
+// Телефон по умолчанию
+export const PHONE = '+7 (3532) 91-78-88';
 
 export const BRAND = 'GAC';
 
