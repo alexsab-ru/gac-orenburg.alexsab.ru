@@ -10,7 +10,7 @@ import icon from "astro-icon";
 export default defineConfig({
 	integrations: [
 		tailwind({
-			configFile: './tailwind.gac.js'
+			configFile: './tailwind.gac-orenburg.js'
 		}),
 		sitemap(),
 		robots(),
