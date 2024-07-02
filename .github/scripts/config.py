@@ -63,7 +63,7 @@ model_mapping = {
         "folder": "m8",
         "color": {
             "Черный": "black.webp",
-            "Ч1рный": "black.webp",
+            "Чёрный": "black.webp",
             "Синий": "blue.webp",
             "Зеленый": "green.webp",
             "Зелёный": "green.webp",
