@@ -32,6 +32,6 @@ export default defineConfig({
 	vite: {
 		plugins: [yaml()]
 	},
-	site: 'https://alexsab-ru.github.io',
-	base: '/gac-orenburg.ru/'
+	site: 'https://gac-orenburg.alexsab.ru',
+	base: '/'
 });
