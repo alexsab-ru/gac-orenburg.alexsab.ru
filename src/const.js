@@ -1,7 +1,7 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
-export const SITE_NAME = 'GAC НИКА АВТО';
+export const SITE_NAME = 'НИКА АВТО';
 // Юр лицо
 export const LEGAL_ENTITY = 'ООО «Интертрейдинг-Оренбург»';
 // ИНН
